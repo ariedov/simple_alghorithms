@@ -1,4 +1,4 @@
-package common_divisor;
+package tasks.common_divisor;
 
 /**
  * Created with IntelliJ IDEA.

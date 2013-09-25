@@ -1,6 +1,6 @@
-package test.extreme_values;
+package tests.extreme_values;
 
-import exteme_values.ExtremeValues;
+import tasks.exteme_values.ExtremeValues;
 import junit.framework.TestCase;
 
 /**

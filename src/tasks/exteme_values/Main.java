@@ -1,4 +1,4 @@
-package exteme_values;
+package tasks.exteme_values;
 
 /**
  * Created with IntelliJ IDEA.

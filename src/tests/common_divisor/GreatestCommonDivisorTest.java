@@ -1,6 +1,6 @@
-package test.common_divisor;
+package tests.common_divisor;
 
-import common_divisor.GreatestCommonDivisor;
+import tasks.common_divisor.GreatestCommonDivisor;
 import junit.framework.TestCase;
 
 /**
