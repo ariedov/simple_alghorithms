@@ -1,0 +1,130 @@
+Удалите все ответы, кроме, по Вашему мнению, верного.
+
+1) Метод, который возвращает целое число обьявляется:
+
+	a) int method a() {...}
+	b) void method() {...}
+	c) method() void {...}
+	d) {...} void method();
+
+2) Присвоить значение переменной var нужно:
+
+	a) void var = 0;
+	b) var int = 2;
+	c) String var = "value";
+	d) double 20.0 = var;
+
+3) Типами данных в Java являются:
+
+	a) int, char, float
+	b) array, int, touple
+	c) struct, char, integer
+	d) var, boolean, double
+
+4) Обьявить класс с именем Car:
+
+	a) public Car class {...}
+	b) Car public class {...}
+	c) public class Car {...}
+	d) public {...} class Car;
+
+5) Обьявить массив array правильно:
+	
+	a) int[] array = new array[5];
+	b) int array = array[5];
+	c) int[] array = new int[5];
+	d) array = new array[5];
+
+6) Записать в переменную нулевое значение массива array:
+
+	a) int a = array[0];
+	b) a = int array[0];
+	c) array[0] = int a;
+	d) a = array[0] int;
+
+7) Вызвать метод drive класса Car:
+
+	a) drive();
+	b) Car.drive();
+	c) Car car = new Car();
+	   car.drive();
+	d) drive.Car();
+
+8) Вызывать метод drive с параметром speed:
+	
+	a) drive(int speed);
+	b) drive(speed);
+	c) speed.drive();
+	d) drive().speed;
+
+9) Какой из методов вернет минимальное значение массива:
+	
+	a) void min() {
+		int min = array[0];
+		for (int i = 0; i < array.lenght; i++) {
+			if (array[i] < min) {
+				min = array[i];	
+			}		
+		}
+		return min;
+	   }
+
+	b) int min() {
+		for (int i = 0; i < array.lenght; i++) {
+			if (array[i] >= min) {
+				return min;
+			}
+		}
+	   }
+
+	c) int min() {
+		int min = array[0];
+		for (int i = 0; i < array.lenght; i++) {
+			if (array[i] < min) {
+				min = array[i];
+			}
+		} 
+		return min;
+	   }
+
+	d) int min() {
+		int min = 0;
+		for (int i = 0; i > array.lenght; i++) {
+			if (array[i] < min) {
+				min = array[i];
+			}
+		}
+		return min;
+	   }
+
+10) Что вернет следующая операция 5 % 3:
+	
+	a) 2
+	b) 5
+	c) 3
+	d) 1
+
+11) Вывести на экран строку Hello World:
+	
+	a) System.out.print(Hello world);
+	b) print(Hello).world;
+	c) System.out.print("Hello world");
+	d) print Hello world;
+
+12) Что выведет на экран следующий код
+		int a = 0;
+		int b = 0;
+		do {
+			System.out.print("Hello ");
+		} while(a == b++);
+	
+	a) Hello
+	   Hello
+
+	b) Hello	
+
+	c) Hello Hello
+	
+	d) olleH
+	
+	
