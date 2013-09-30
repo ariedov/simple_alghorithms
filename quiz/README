@@ -5,15 +5,15 @@
 3) Выполнить git clone https://github.com/<your account name>/courses.git
 
 Локально(на своем компьютере):
-4) Перейти в папку репозитория/quiz
+4) Перейти в <папка репозитория>/quiz/
 5) Открыть файл quiz.txt в любом текстовом редакторе
 6) Удалить все ответы, которые, по Вашему мнению, являются неверными
-7) Выполнить git commit
-8) Выполнить git pull origin master
+7) Выполнить git commit -am 'work ready'
+8) Выполнить git push origin master
 
 В браузере:
 9) Перейти на страницу https://github.com/ariedov/courses/tree/master/quiz
-10) Перейти во вкладку pull requests https://github.com/ariedov/courses/pulls
+10) Перейти во вкладку "pull requests" https://github.com/ariedov/courses/pulls
 11) Нажать "new pull request"
 12) Выбрать вашу ветку (единственное, что будет подсвечено синим)
 13) Выполнить pull request
