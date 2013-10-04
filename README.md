@@ -1,4 +1,4 @@
-courses
+Simple alghorithms  
 =======
 
-Home work and study materials for Java Educate Us courses.
+Simple alghortim solutions in Java.
